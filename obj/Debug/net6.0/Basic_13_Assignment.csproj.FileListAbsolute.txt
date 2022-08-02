@@ -1,0 +1,15 @@
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Basic_13_Assignment\bin\Debug\net6.0\Basic_13_Assignment.exe
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Basic_13_Assignment\bin\Debug\net6.0\Basic_13_Assignment.deps.json
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Basic_13_Assignment\bin\Debug\net6.0\Basic_13_Assignment.runtimeconfig.json
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Basic_13_Assignment\bin\Debug\net6.0\Basic_13_Assignment.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Basic_13_Assignment\bin\Debug\net6.0\Basic_13_Assignment.pdb
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Basic_13_Assignment\obj\Debug\net6.0\Basic_13_Assignment.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Basic_13_Assignment\obj\Debug\net6.0\Basic_13_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Basic_13_Assignment\obj\Debug\net6.0\Basic_13_Assignment.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Basic_13_Assignment\obj\Debug\net6.0\Basic_13_Assignment.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Basic_13_Assignment\obj\Debug\net6.0\Basic_13_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Basic_13_Assignment\obj\Debug\net6.0\Basic_13_Assignment.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Basic_13_Assignment\obj\Debug\net6.0\refint\Basic_13_Assignment.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Basic_13_Assignment\obj\Debug\net6.0\Basic_13_Assignment.pdb
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Basic_13_Assignment\obj\Debug\net6.0\Basic_13_Assignment.genruntimeconfig.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Basic_13_Assignment\obj\Debug\net6.0\ref\Basic_13_Assignment.dll
